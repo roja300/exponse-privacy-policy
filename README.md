@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date: September 4, 2024**
+*Effective Date: September 4, 2024*
 
 ### 1. Introduction
 
@@ -8,14 +8,14 @@ This Privacy Policy outlines how Exponse collects, uses, and protects your perso
 
 ### 2. Information We Collect
 
-Personal Information:
+*Personal Information:*
 1. Name
 2. Email address
 3. User-generated content (e.g., expense descriptions, categories)
 
-Usage Data:
-Device information (e.g., device type, operating system)
-App usage data (e.g., frequency of use, features accessed)
+*Usage Data:*
+1. Device information (e.g., device type, operating system)
+2. App usage data (e.g., frequency of use, features accessed)
 
 ### 3. How We Use Your Information
 
@@ -34,7 +34,7 @@ We may use your contact information to:
 We do not share your personal information with third parties for marketing purposes. However, we may share your information with:   
 
 Service Providers: We may use third-party service providers to help us operate Exponse (e.g., analytics, cloud storage). These providers are bound by confidentiality agreements.   
-**Legal Requirements: We may disclose your information to comply with legal obligations or to protect our rights.
+*Legal Requirements: We may disclose your information to comply with legal obligations or to protect our rights.
 
 ### 5. Data Security
 
@@ -44,9 +44,9 @@ We implement appropriate security measures to protect your personal information 
 
 You have the following choices regarding your personal information:
 
-**Access and Correction:** You can request access to your personal information and make corrections as needed.   
-**Deletion:** You can request the deletion of your personal information.
-**Opt-Out:** You can opt-out of receiving marketing communications from us.   
+*Access and Correction:* You can request access to your personal information and make corrections as needed.   
+*Deletion:* You can request the deletion of your personal information.
+*Opt-Out:* You can opt-out of receiving marketing communications from us.   
 
 ### 7. Changes to This Policy
 
@@ -54,13 +54,13 @@ We may update this Privacy Policy from time to time. We will notify you of signi
 
 ### 8. Contact Us
 
-If you have any questions about this Privacy Policy or our practices, please contact us at **romanjcoles@gmail.com**.
+If you have any questions about this Privacy Policy or our practices, please contact us at *romanjcoles@gmail.com*.
 
 ### 9. Governing Law
 
 This Privacy Policy is governed by the laws of the United Kingdom.
 
-**Limitation:** To the fullest extent permitted by law, we shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits
+*Limitation:* To the fullest extent permitted by law, we shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits
 or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses,
 resulting from: 
 1. your use or inability to use the App;
