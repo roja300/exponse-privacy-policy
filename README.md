@@ -58,7 +58,7 @@ If you have any questions about this Privacy Policy or our practices, please con
 
 ### 9. Governing Law
 
-This Privacy Policy is governed by the laws of [jurisdiction].
+This Privacy Policy is governed by the laws of the United Kingdom.
 
 **Limitation:** To the fullest extent permitted by law, we shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits
 or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses,
